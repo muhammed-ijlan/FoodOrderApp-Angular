@@ -16,7 +16,7 @@ a:hover {
   justify-content: space-between;
 }
 a.logo {
-  font-family: bold;
+  font-weight: bold;
   padding: 1em;
 }
 nav ul {
