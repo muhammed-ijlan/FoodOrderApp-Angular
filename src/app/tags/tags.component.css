@@ -1,7 +1,6 @@
 div {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
 }
 div a {
   background-color: #e8e8e8;
