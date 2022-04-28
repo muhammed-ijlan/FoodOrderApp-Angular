@@ -13,7 +13,15 @@ import { CartPageComponent } from './cart-page/cart-page.component';
 import { FoodpageComponent } from './foodpage/foodpage.component';
 
 @NgModule({
-  declarations: [AppComponent, HeaderComponent, HomeComponent, SearchComponent, TagsComponent, CartPageComponent, FoodpageComponent],
+  declarations: [
+    AppComponent,
+    HeaderComponent,
+    HomeComponent,
+    SearchComponent,
+    TagsComponent,
+    CartPageComponent,
+    FoodpageComponent,
+  ],
   imports: [BrowserModule, AppRoutingModule, RatingModule, FormsModule],
   providers: [],
   bootstrap: [AppComponent],
